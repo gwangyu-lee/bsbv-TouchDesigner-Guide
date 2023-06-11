@@ -1,6 +1,6 @@
 # bsbv-TouchDesigner-Guide
 
-Projecty files of 「be sound be visionary TouchDesigner Guide」, 2023.
+Project files of 「be sound be visionary TouchDesigner Guide」, 2023.
 
 Language | Korean    
 Author | Gwangyu Lee    
